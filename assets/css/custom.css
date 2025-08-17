@@ -1,0 +1,10 @@
+/* Ocultar el texto "Published with Hugo Blox Builder" */
+.powered-by {
+  display: none !important;
+}
+
+/* Arreglar menú desplegable de idiomas */
+.navbar .dropdown-menu {
+  max-height: none !important;
+  overflow: visible !important;
+}
