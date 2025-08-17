@@ -11,8 +11,8 @@ main:
   - name: Lexora
     url: "https://manueljbren.substack.com"
     weight: 13
-  - name: Despacho
-    url: "https://www.brenesabogado.es"
+  - name: Experience
+    url: Experience/
     weight: 20
   - name: Resume
     url: Resume/
