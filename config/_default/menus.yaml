@@ -2,18 +2,15 @@ main:
   - name: Bio
     url: /
     weight: 10
-  - name: Publications
+  - name: Publicaciones
     url: "https://orcid.org/0009-0007-3934-8994"
-    weight: 11
+    weight: 20
   - name: Preprints
     url: "https://zenodo.org/records/XXXXXXX"
-    weight: 12
+    weight: 30
   - name: Lexora
     url: "https://manueljbren.substack.com"
-    weight: 13
-  - name: Experience
-    url: Experience/
-    weight: 20
-  - name: Resume
-    url: Resume/
     weight: 40
+  - name: CV
+    url: "uploads/resume.pdf"
+    weight: 50
