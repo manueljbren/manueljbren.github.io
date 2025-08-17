@@ -3,13 +3,27 @@
   display: none !important;
 }
 
-/* Arreglar menú desplegable de idiomas */
+/* Asegurar que el menú de idiomas no se recorte */
+#navbar-main {
+  overflow: visible !important;
+  z-index: 2000 !important;
+}
+
+/* Menú desplegable de idiomas */
 #navbar-main .dropdown-menu {
   position: absolute !important;
-  top: 100% !important;   /* que baje justo debajo del botón */
+  top: 100% !important;
+  right: 0 !important;
   left: auto !important;
-  right: 0 !important;    /* alineado al botón */
-  max-height: none !important;
-  overflow: visible !important;
-  z-index: 2000 !important; /* que quede por encima */
+  max-height: 250px !important;   /* ajusta según quieras */
+  overflow-y: auto !important;
+  overflow-x: hidden !important;
+  z-index: 5000 !important;
+}
+
+/* Forzar scroll en el menú de idiomas */
+nav .absolute {
+  max-height: 150px !important;  /* limite de altura */
+  overflow-y: auto !important;   /* scroll vertical */
+  z-index: 9999 !important;      /* que quede por encima */
 }
