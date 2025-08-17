@@ -36,6 +36,9 @@ profiles:
     url: https://www.linkedin.com/in/manueljbren
   - icon: academicons/orcid
     url: https://orcid.org/0009-0007-3934-8994
+  - icon: brands/amazon
+    url: https://www.amazon.com/-/es/Manuel-J-Brenes-Flores-ebook/dp/B0CNVC8DMR
+
 
 interests:
   - International Private Law
@@ -52,28 +55,13 @@ education:
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
-  - area: 
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.8/4.0
+  - area: LL.M. in Europe Union Law
+    institution: UNED 
+  - area: LL.M. in Family Law
+    institution: Universidad Internacional de La Rioja
+  - area: LL. M. in Legal Practice
+    institution: Universidad Internacional de La Rioja
 
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.4/4.0
-      
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
