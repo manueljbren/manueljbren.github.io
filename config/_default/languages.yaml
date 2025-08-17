@@ -1,22 +1,60 @@
-# Languages
-#   Create a section for each of your site's languages.
-#   Documentation: https://docs.hugoblox.com/reference/language/
-
 # Default language
+es:
+  languageCode: es-es
+  contentDir: content/es
+  title: "Manuel Jesús Brenes Flores"
+  params:
+    description: "Sitio personal en español"
+  menu:
+    main:
+      - name: Inicio
+        url: '#about'
+        weight: 1
+
 en:
   languageCode: en-us
-  # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
-  #contentDir: content/en
+  contentDir: content/en
+  title: "Manuel Jesús Brenes Flores"
+  params:
+    description: "Personal website in English"
+  menu:
+    main:
+      - name: Home
+        url: '#about'
+        weight: 1
 
-# Uncomment the lines below to configure your website in a second language.
-#zh:
-#  languageCode: zh-Hans
-#  contentDir: content/zh
-#  title: Chinese website title...
-#  params:
-#    description: Site description in Chinese...
-#  menu:
-#    main:
-#      - name: 传
-#        url: '#about'
-#        weight: 1
+fr:
+  languageCode: fr-fr
+  contentDir: content/fr
+  title: "Manuel Jesús Brenes Flores"
+  params:
+    description: "Site personnel en français"
+  menu:
+    main:
+      - name: Accueil
+        url: '#about'
+        weight: 1
+
+it:
+  languageCode: it-it
+  contentDir: content/it
+  title: "Manuel Jesús Brenes Flores"
+  params:
+    description: "Sito personale in italiano"
+  menu:
+    main:
+      - name: Home
+        url: '#about'
+        weight: 1
+
+de:
+  languageCode: de-de
+  contentDir: content/de
+  title: "Manuel Jesús Brenes Flores"
+  params:
+    description: "Persönliche Webseite auf Deutsch"
+  menu:
+    main:
+      - name: Startseite
+        url: '#about'
+        weight: 1
