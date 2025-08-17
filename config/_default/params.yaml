@@ -34,10 +34,11 @@ header:
 
 # Site footer
 footer:
+  show_powered_by: false
   copyright:
-    notice: '© {year} All rights reserved.'
+    notice: '© {year} Manuel J. Brenes Flores. All rights reserved.'
     license:
-      enable: true
+      enable: false
       allow_derivatives: false
       share_alike: true
       allow_commercial: false
