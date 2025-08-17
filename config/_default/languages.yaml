@@ -1,60 +1,119 @@
-# Default language
 es:
   languageCode: es-es
   contentDir: content/es
   title: "Manuel Jesús Brenes Flores"
   params:
-    description: "Sitio personal en español"
+    description: "Web en español"
   menu:
     main:
-      - name: Inicio
-        url: '#about'
-        weight: 1
+      - name: Bio
+        url: /
+        weight: 10
+      - name: Publicaciones
+        url: "https://orcid.org/0009-0007-3934-8994"
+        weight: 20
+      - name: Preprints
+        url: ""
+        weight: 30
+      - name: Lexora
+        url: "https://manueljbren.substack.com"
+        weight: 40
+      - name: CV
+        url: "uploads/CV-MANUEL-BRENES.pdf"
+        weight: 50
 
 en:
   languageCode: en-us
   contentDir: content/en
   title: "Manuel Jesús Brenes Flores"
   params:
-    description: "Personal website in English"
+    description: "Website in English"
   menu:
     main:
-      - name: Home
-        url: '#about'
-        weight: 1
+      - name: Bio
+        url: /
+        weight: 10
+      - name: Publications
+        url: "https://orcid.org/0009-0007-3934-8994"
+        weight: 20
+      - name: Preprints
+        url: ""
+        weight: 30
+      - name: Lexora
+        url: "https://manueljbren.substack.com"
+        weight: 40
+      - name: CV
+        url: "uploads/CV-MANUEL-BRENES.pdf"
+        weight: 50
 
 fr:
   languageCode: fr-fr
   contentDir: content/fr
   title: "Manuel Jesús Brenes Flores"
   params:
-    description: "Site personnel en français"
+    description: "Site en français"
   menu:
     main:
-      - name: Accueil
-        url: '#about'
-        weight: 1
+      - name: Bio
+        url: /
+        weight: 10
+      - name: Publications
+        url: "https://orcid.org/0009-0007-3934-8994"
+        weight: 20
+      - name: Prépublications
+        url: ""
+        weight: 30
+      - name: Lexora
+        url: "https://manueljbren.substack.com"
+        weight: 40
+      - name: CV
+        url: "uploads/CV-MANUEL-BRENES.pdf"
+        weight: 50
 
 it:
   languageCode: it-it
   contentDir: content/it
   title: "Manuel Jesús Brenes Flores"
   params:
-    description: "Sito personale in italiano"
+    description: "Sito in italiano"
   menu:
     main:
-      - name: Home
-        url: '#about'
-        weight: 1
+      - name: Bio
+        url: /
+        weight: 10
+      - name: Pubblicazioni
+        url: "https://orcid.org/0009-0007-3934-8994"
+        weight: 20
+      - name: Preprint
+        url: ""
+        weight: 30
+      - name: Lexora
+        url: "https://manueljbren.substack.com"
+        weight: 40
+      - name: CV
+        url: "uploads/CV-MANUEL-BRENES.pdf"
+        weight: 50
 
 de:
   languageCode: de-de
   contentDir: content/de
   title: "Manuel Jesús Brenes Flores"
   params:
-    description: "Persönliche Webseite auf Deutsch"
+    description: "Webseite auf Deutsch"
   menu:
     main:
-      - name: Startseite
-        url: '#about'
-        weight: 1
+      - name: Bio
+        url: /
+        weight: 10
+      - name: Publikationen
+        url: "https://orcid.org/0009-0007-3934-8994"
+        weight: 20
+      - name: Preprints
+        url: ""
+        weight: 30
+      - name: Lexora
+        url: "https://manueljbren.substack.com"
+        weight: 40
+      - name: Lebenslauf
+        url: "uploads/CV-MANUEL-BRENES.pdf"
+        weight: 50
