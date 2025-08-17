@@ -32,6 +32,9 @@ header:
     logo:
       text: "Manuel Jesús Brenes Flores"
 
+# Favicon
+favicon: "favicon.ico"
+
 # Site footer
 footer:
   show_powered_by: false
@@ -55,3 +58,7 @@ features:
   privacy_pack:
     enable: false
   custom_css: ["css/custom.css"]
+
+  stylesheets:
+  - "css/custom.css"
+
