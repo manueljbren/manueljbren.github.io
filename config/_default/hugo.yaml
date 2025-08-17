@@ -12,10 +12,32 @@ baseURL: 'https://example.com/'
 ## LANGUAGE
 ############################
 
-defaultContentLanguage: en
+defaultContentLanguage: es
 hasCJKLanguage: false
-defaultContentLanguageInSubdir: false
+defaultContentLanguageInSubdir: true
 removePathAccents: true
+
+languages:
+  es:
+    weight: 1
+    title: "Manuel Jesús Brenes Flores"
+    languageName: "Español"
+  en:
+    weight: 2
+    title: "Manuel Jesús Brenes Flores"
+    languageName: "English"
+  fr:
+    weight: 3
+    title: "Manuel Jesús Brenes Flores"
+    languageName: "Français"
+  it:
+    weight: 4
+    title: "Manuel Jesús Brenes Flores"
+    languageName: "Italiano"
+  de:
+    weight: 5
+    title: "Manuel Jesús Brenes Flores"
+    languageName: "Deutsch"
 
 ############################
 ## ADVANCED
@@ -32,7 +54,7 @@ enableRobotsTXT: true
 footnotereturnlinkcontents: <sup>^</sup>
 ignoreFiles: [\.ipynb$, .ipynb_checkpoints$, \.Rmd$, \.Rmarkdown$, _cache$]
 permalinks:
-  authors: '/author/:slug/'
+  authors: '/authors/:slug/'
 disableAliases: true
 outputs:
   home: [HTML, RSS, headers, redirects, backlinks]
