@@ -62,3 +62,6 @@ features:
   stylesheets:
   - "css/custom.css"
 
+  customJS:
+    - js/custom.js
+

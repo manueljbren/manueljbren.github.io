@@ -4,7 +4,12 @@
 }
 
 /* Arreglar menú desplegable de idiomas */
-.navbar .dropdown-menu {
+#navbar-main .dropdown-menu {
+  position: absolute !important;
+  top: 100% !important;   /* que baje justo debajo del botón */
+  left: auto !important;
+  right: 0 !important;    /* alineado al botón */
   max-height: none !important;
   overflow: visible !important;
+  z-index: 2000 !important; /* que quede por encima */
 }
