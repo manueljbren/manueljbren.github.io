@@ -23,6 +23,6 @@ en:
         url: "uploads/CV-MANUEL-BRENES.pdf"
         weight: 50
       - name: Profesional
-        url: "/profesional/"
+        url: profesional/
         weight: 60
 
