@@ -14,6 +14,6 @@ description: "Información profesional: contacto, colegiación, horario."
 
 - **Phone:** +34 644 08 20 19  
 - **Email:** mjbf.lex@icloud.com  
-- **Office hours:** L–J 10:00–18:00 (fuera de ese horario, con cita).
+- **Office hours:** M–T 10:00–18:00 
   
 > *The office does not have WhatsApp. Communications will be made by telephone, by RCS or by email.*
