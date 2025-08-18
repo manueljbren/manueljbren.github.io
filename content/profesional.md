@@ -3,14 +3,17 @@ title: ""
 url: "/profesional/"
 ShowShareButtons: false
 ShowToc: false
+ShowReadingTime: false
+BookShowShareButtons: false
 hideTitle: true   # Si no funciona en tu versión, aplica la opción B (CSS)
 description: "Información profesional: contacto, colegiación, horario."
+
 ---
 
 
 ### Info
 
-**Attorney nº 16.119 · Ilustre Colegio de Abogados de Sevilla (ICAS)**
+**Attorney nº 16.119 · (ICAS)**
 
 - **Phone:** +34 644 08 20 19  
 - **Email:** mjbf.lex@icloud.com  
