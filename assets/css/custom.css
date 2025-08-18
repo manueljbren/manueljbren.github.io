@@ -27,3 +27,12 @@ nav .absolute {
   overflow-y: auto !important;   /* scroll vertical */
   z-index: 9999 !important;      /* que quede por encima */
 }
+
+/* Fix selector de idioma */
+nav .language-selector ul {
+  position: absolute !important;
+  top: 100% !important;   /* siempre hacia abajo */
+  left: 0 !important;
+  z-index: 9999 !important;
+  background: white;      /* o dark:bg-gray-800 si usas modo oscuro */
+}
