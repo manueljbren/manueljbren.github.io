@@ -1,6 +1,6 @@
 en:
   languageCode: en-us
-  contentDir: content/
+  contentDir:
   title: "Manuel Jesús Brenes Flores"
   params:
     description: "Website in English"
