@@ -1,14 +1,12 @@
 ---
 title: "Profesional"
-# Fuerza la URL limpia /profesional/
 url: "/profesional/"
-# No añadir a menús
-menu: {}
-# (Opcional) Usa el layout 'single' genérico del tema
-layout: "single"
-# Meta
-description: "Área profesional: datos de contacto, colegiación y horario"
+ShowShareButtons: false
+ShowToc: false
+hideTitle: true   # Si no funciona en tu versión, aplica la opción B (CSS)
+description: "Información profesional: contacto, colegiación, horario."
 ---
+
 
 ### Información profesional
 
