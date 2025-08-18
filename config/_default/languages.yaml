@@ -20,5 +20,5 @@ en:
         url: "https://manueljbren.substack.com"
         weight: 40
       - name: CV
-        url: "/uploads/CV-MANUEL-BRENES.pdf"
+        url: "uploads/CV-MANUEL-BRENES.pdf"
         weight: 50
