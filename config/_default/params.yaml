@@ -33,7 +33,7 @@ header:
       text: "Manuel Jesús Brenes Flores"
 
 # Favicon
-favicon: "/favicon.ico"
+favicon: "/static/favicon.ico"
 
 # Site footer
 footer:
