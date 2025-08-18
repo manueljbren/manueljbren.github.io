@@ -1,0 +1,7 @@
+{{/* Override: no usar el pipeline de imágenes del tema.
+   Devolvemos un objeto con "RelPermalink" apuntando a tu favicon clásico.
+   Así el código que hace .RelPermalink no falla y no se generan PNGs. */}}
+
+{{- $size := . -}}  {{/* el tema pasa 32, 180, etc. No lo usamos. */}}
+{{- $href := site.Params.favicon | default "/favicon.ico" -}}
+{{- return (dict "RelPermalink" $href) -}}
