@@ -1,5 +1,5 @@
 ---
-title: "Profesional"
+title: ""
 url: "/profesional/"
 ShowShareButtons: false
 ShowToc: false
@@ -8,15 +8,12 @@ description: "Información profesional: contacto, colegiación, horario."
 ---
 
 
-### Información profesional
+### Info
 
-**Letrado 16.119 · Ilustre Colegio de Abogados de Sevilla (ICAS)**
+**Attorney nº 16.119 · Ilustre Colegio de Abogados de Sevilla (ICAS)**
 
-- **Teléfono:** +34 644 08 20 19  
+- **Phone:** +34 644 08 20 19  
 - **Email:** mjbf.lex@icloud.com  
-- **Atención:** L–J 10:00–18:00 (fuera de ese horario, con cita).  
-- **Atención online:** disponible.
-
-> *El despacho no dispone de WhatsApp. Las comunicaciones se realizarán vía telefónica, por RCS o por correo electrónico.*
-
----
+- **Office hours:** L–J 10:00–18:00 (fuera de ese horario, con cita).
+  
+> *The office does not have WhatsApp. Communications will be made by telephone, by RCS or by email.*
