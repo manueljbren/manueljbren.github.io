@@ -4,6 +4,7 @@ es:
   title: "Manuel Jesús Brenes Flores"
   params:
     description: "Web en español"
+    favicon: "/favicon.ico"
   menu:
     main:
       - name: Bio
@@ -28,6 +29,7 @@ en:
   title: "Manuel Jesús Brenes Flores"
   params:
     description: "Website in English"
+    favicon: "/favicon.ico"
   menu:
     main:
       - name: Bio
@@ -52,6 +54,7 @@ fr:
   title: "Manuel Jesús Brenes Flores"
   params:
     description: "Site en français"
+    favicon: "/favicon.ico"
   menu:
     main:
       - name: Bio
@@ -76,6 +79,7 @@ it:
   title: "Manuel Jesús Brenes Flores"
   params:
     description: "Sito in italiano"
+    favicon: "/favicon.ico"
   menu:
     main:
       - name: Bio
@@ -100,6 +104,7 @@ de:
   title: "Manuel Jesús Brenes Flores"
   params:
     description: "Webseite auf Deutsch"
+    favicon: "/favicon.ico"
   menu:
     main:
       - name: Bio
