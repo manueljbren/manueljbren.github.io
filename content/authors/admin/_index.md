@@ -70,7 +70,4 @@ languages:
 
 ##
 
-Manuel Jesús Brenes Flores is a Practicing lawyer (nº16119 Bar Association of Seville) and member of AEAFA with advanced specialization in Private International Law, European Union Law, Inheritance Law and Cybersecurity.
-Phone: +34 644 08 20 19
-Email: mjbf.lex@icloud.com
-Office hours: M–T 10:00–18:00
+Manuel Jesús Brenes Flores is a Practicing lawyer (nº16119 Bar Association of Seville) and member of AEAFA with advanced specialization in Private International Law, European Union Law, Inheritance Law and Cybersecurity. Phone: (+34 644082019); lawyer-mail: mjbf.lex@icloud.com; hours: M–T 10:00–18:00.
