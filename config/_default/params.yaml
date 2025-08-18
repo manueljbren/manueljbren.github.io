@@ -29,7 +29,7 @@ header:
     fixed_to_top: true
     show_search: true
     show_theme_chooser: true
-    logo:
+    logo: "/favicon.ico"
       text: "Manuel Jesús Brenes Flores"
 
 # Favicon
@@ -37,7 +37,7 @@ favicon: "/favicon.ico"
 
 # Site footer
 footer:
-  show_powered_by: false
+  show_powered_by: true
   copyright:
     notice: '© {year} Manuel J. Brenes Flores. All rights reserved.'
     license:
