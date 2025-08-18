@@ -30,6 +30,11 @@
   font-display: swap;
 }
 
-body {
-  font-family: 'Latin Modern Roman', serif;
+/* 🔑 Aquí añadimos el !important */
+html, body,
+h1, h2, h3, h4, h5, h6,
+p, span, div,
+.navbar, .navbar *, 
+.btn, button, input, textarea, blockquote, figcaption {
+  font-family: 'Latin Modern Roman', serif !important;
 }
