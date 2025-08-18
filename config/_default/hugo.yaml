@@ -12,32 +12,16 @@ baseURL: 'http://mjbf.eu/'
 ## LANGUAGE
 ############################
 
-defaultContentLanguage: es
+defaultContentLanguage: en
 hasCJKLanguage: false
-defaultContentLanguageInSubdir: true
+defaultContentLanguageInSubdir: false
 removePathAccents: true
 
 languages:
-  es:
+  en:
     weight: 1
     title: "Manuel Jesús Brenes Flores"
-    languageName: "Español"
-  en:
-    weight: 2
-    title: "Manuel Jesús Brenes Flores"
     languageName: "English"
-  fr:
-    weight: 3
-    title: "Manuel Jesús Brenes Flores"
-    languageName: "Français"
-  it:
-    weight: 4
-    title: "Manuel Jesús Brenes Flores"
-    languageName: "Italiano"
-  de:
-    weight: 5
-    title: "Manuel Jesús Brenes Flores"
-    languageName: "Deutsch"
 
 ############################
 ## ADVANCED

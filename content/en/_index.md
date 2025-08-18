@@ -17,7 +17,7 @@ sections:
       # Show a call-to-action button under your biography? (optional)
       button:
         text: Download CV
-        url: uploads/CV-MANUEL-BRENES.pdf
+        url: "/uploads/CV-MANUEL-BRENES.pdf"
     design:
       css_class:
     design:
