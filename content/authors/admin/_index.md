@@ -36,7 +36,7 @@ profiles:
     url: https://www.linkedin.com/in/manueljbren
   - icon: academicons/orcid
     url: https://orcid.org/0009-0007-3934-8994
-  - icon: 📕
+  - icon: ✍️
     url: https://www.amazon.com/-/es/Manuel-J-Brenes-Flores-ebook/dp/B0CNVC8DMR
 
 interests:
