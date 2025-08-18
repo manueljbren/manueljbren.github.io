@@ -10,7 +10,7 @@ layout: "single"
 description: "Área profesional: datos de contacto, colegiación y horario"
 ---
 
-# Información profesional
+### Información profesional
 
 **Letrado 16.119 · Ilustre Colegio de Abogados de Sevilla (ICAS)**
 
@@ -22,8 +22,3 @@ description: "Área profesional: datos de contacto, colegiación y horario"
 > *El despacho no dispone de WhatsApp. Las comunicaciones se realizarán vía telefónica, por RCS o por correo electrónico.*
 
 ---
-
-## Contacto directo
-
-- [Escríbeme](mailto:mjbf.lex@icloud.com)  
-- También disponible por videollamada previa cita.
