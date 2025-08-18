@@ -22,7 +22,5 @@ en:
       - name: CV
         url: "uploads/CV-MANUEL-BRENES.pdf"
         weight: 50
-      - name: Profesional
-        url: /profesional/
-        weight: 60
+
 
