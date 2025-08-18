@@ -7,7 +7,6 @@ ShowReadingTime: false
 BookShowShareButtons: false
 hideTitle: true   # Si no funciona en tu versión, aplica la opción B (CSS)
 description: "Información profesional: contacto, colegiación, horario."
-
 ---
 
 
